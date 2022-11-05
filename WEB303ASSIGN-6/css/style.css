@@ -1,0 +1,106 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.accordion{
+    width:50%;
+    margin:0 auto;
+}
+
+/* accordion heading */
+.accordion h1{
+    font-size:30px;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom:0px;
+    margin-top:0px;
+    background-color:rgb(243, 114, 114);
+    padding-top:12px;padding-bottom:12px;
+    border:1px solid rgb(32, 11, 11);
+    border-radius:3px;
+}
+.accordion h1:hover{
+    cursor:pointer;
+}
+
+/* accordion section content */
+.accordion div{
+    display:none;
+    padding:10px;
+    height:200px;
+    line-height:20px;
+    border:1px solid rgb(162, 16, 224);
+    border-radius:10px;
+}
+
+
+  img {
+    border-radius: 20px;
+    float:left;
+  }
+
+ 
+
+
+@media only screen and (max-width: 800px){
+    .accordion{
+      width:95%;
+  }
+
+
+}
+
+#myTab #tabButton ul li .active{
+    background: #7a7af9;
+    border-top: 2px solid #48a200;
+}
+#myTab #tabContent .tab{
+    Display:none; /* hide all tab */
+}
+#myTab #tabContent .active{
+    display:block;
+    background:#cf6e06;
+} 
+
+/*styles for tabs*/
+
+/* Tabs */
+.tabs {
+    width: 400px;
+    background-color: rgb(196, 244, 177);
+    border-radius: 10px 5px 10px 5px;
+    
+  }
+
+  ul#tabs-nav {
+    list-style: none;
+    margin: 0;
+    padding: 5px;
+    overflow: auto;
+  }
+  ul#tabs-nav li {
+    float: left;
+    font-weight: bold;
+    margin-right: 2px;
+    padding: 8px 10px;
+    border-radius: 5px 5px 5px 5px;
+    /*border: 1px solid #d5d5de;
+    border-bottom: none;*/
+    cursor: pointer;
+  }
+  ul#tabs-nav li:hover,
+  ul#tabs-nav li.active {
+    background-color: rgb(73, 18, 36);
+  }
+  #tabs-nav li a {
+    text-decoration: none;
+    color: #FFF;
+  }
+  .tab-content {
+    padding: 20px;
+    border: 10px solid rgb(40, 3, 67);
+    background-color: #FFF;
+  }
+  
+ 
