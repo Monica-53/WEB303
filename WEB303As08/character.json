@@ -1,0 +1,58 @@
+[
+	{
+		"FirstName": "Ray",
+		"LastName": "Barone",
+		"Profession": "Sports Writer",
+		"Personality": "comic. It’s what made Debra fall for him, but it’s also how he tries to get out of every serious conversation. He’s not good at taking a stand because he’s always observing, looking for an opening for the next joke.",
+		"BestEpisodes": "Standard Deviation, The Letter",
+		"Photo": "Ray.jpg"
+	},
+	{
+		"FirstName": "Debra",
+		"LastName": "Barone",
+		"Profession": "Home maker",
+		"Personality": "A loving and devoted mother and wife. She loves her family dearly, and cares deeply about Ray despite his immaturity",
+		"BestEpisodes": "Standard Deviation, The Letter",
+		"Photo": "Debra.jpg"
+	},
+	{
+		"FirstName": "Robert",
+		"LastName": "Barone",
+		"Profession": "Police Officer",
+		"Personality": " He obviously suffers from an inferiority complex as he lives with the profound belief that Marie favoured his little brother Raymond over him.",
+		"BestEpisodes": "Lucky Suit, Robert's Rodeo",
+		"Photo": "Robert.jpg"
+	},
+	{
+		"FirstName": "Frank",
+		"LastName": "Zarone",
+		"Profession": "Retired BookKeeper",
+		"Personality": "Frank is a professional handyman in his spare time, repairing several faults in Ray and Debra's house",
+		"BestEpisodes": "Drivin Frank,The Wallpaper",
+		"Photo": "Frank.jpg"
+	},
+	{
+		"FirstName": "Marie",
+		"LastName": "Barone",
+		"Profession": "Home maker",
+		"Personality": " The concept of “over-nurturing” is foreign to her. She sees the decline of the nuclear family as the sign of the end times.",
+		"BestEpisodes": "The Toaster,Reading Ray's Journal",
+		"Photo": "Marie.jpg"
+	},
+	{
+		"FirstName": "Amy",
+		"LastName": "MacDougall",
+		"Profession": "Human Resources",
+		"Personality": "She is also very sensitive, crying over minor upsets, apologizing when she did nothing wrong, and confessing that she wanted to be close to everybody in the Barone family.",
+		"BestEpisodes": "Thank you Notes,What's with Robert",
+		"Photo": "Amy.jpg"
+	},
+	{
+		"FirstName": "Aly",
+		"LastName": "Yarone",
+		"Profession": "Student",
+		"Personality": "Ally Barone is adventurous, loving, ladylike, understanding, brave, astute, respectful, optimistic, naive, even-tempered, affectionate child.",
+		"BestEpisodes": "Talk to your daughter,Refusing to learn PianoLessons",
+		"Photo": "Aly.jpg"
+	}
+]
